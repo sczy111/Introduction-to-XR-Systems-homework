@@ -1,0 +1,4 @@
+Link to Github repo: https://github.com/sczy111/XR_homework
+Extra work:  1. I added a quit button on the wall which you can click to quit. It does the same thing as pressing right hand grip.
+		2. I built a curved roof in blender and imported to the project.
+		3. I added another external view point which you can access by click the "go outside(position 2)" button on the wall. In position 2, if you press X 			button, you will be brought to position 1 which is the default external viewpoint. Press X button again, you will be back to the room. Press X 				button for mutiple times, you will travel between room and position 1.
